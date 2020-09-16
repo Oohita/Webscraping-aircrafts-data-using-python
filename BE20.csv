@@ -1,0 +1,39 @@
+ident,type,origin,destination,departure,estd-arrival-time,estd-time-enroute
+ N10EC,BE20,Lovell Field (KCHA),John C Tune (KJWN),Wed 02:44PM EDT,Wed 02:10PM CDT,00:26
+ VSL445,BE20,Sept (CYZV),Quebec/Jean Lesage Int'l (CYQB),Wed 02:43PM EDT,Wed 04:17PM EDT,01:33
+ N404DP,BE20,East Hampton (KHTO),Philadelphia Intl (KPHL),Wed 02:37PM EDT,Wed 03:29PM EDT,00:52
+ NCB912,BE20,Fort St. John (North Peace) (CYXJ),Prince George (CYXS),Wed 11:35AM MST,Wed 12:19PM PDT,00:44
+ N847BA,BE20,Flying Cloud (KFCM),Joe Foss Field (KFSD),Wed 01:34PM CDT,Wed 02:25PM CDT,00:51
+ NLI239,BE20,Lacombe (CEG3),Edmonton Int'l (CYEG),Wed 12:34PM MDT,Wed 12:56PM MDT,00:22
+ N949MA,BE20,Henderson Executive (KHND),N/A,Wed 11:32AM PDT,N/A,N/A
+ N403EA,BE20,Gettysburg Muni (0D8),Chandler Field (KAXN),Wed 01:28PM CDT,Wed 02:20PM CDT,00:51
+ N203DH,BE20,"Near Anchorage, AK",N/A,Wed 10:26AM AKDT,N/A,N/A
+ GRY3,BE20,Adirondack Rgnl (KSLK),N/A,Wed 02:26PM EDT,N/A,N/A
+ N182Z,BE20,Heber Valley (KHCR),Albuquerque Intl Sunport (KABQ),Wed 12:23PM MDT,Wed 02:11PM MDT,01:47
+ C-FUNF,BE20,Winnipeg Int'l (CYWG),Gillam (CYGX),Wed 01:23PM CDT,Wed 03:05PM CDT,01:42
+ LEAD55,BE20,Porterville Muni (KPTV),N/A,Wed 11:17AM PDT,N/A,N/A
+ N1518G,BE20,Roanoke Rgnl (KROA),Moore-Murrell (KMOR),Wed 02:16PM EDT,Wed 03:11PM EDT,00:31
+ N53AR,BE20,Anchorage Intl (PANC),Deadhorse (SCC / PASC),Wed 10:16AM AKDT,Wed 12:19PM AKDT,02:02
+ BRG850,BE20,Gambell (GAM / PAGM),Nome (OME / PAOM),Wed 10:16AM AKDT,Wed 11:02AM AKDT,00:33
+ N924AC,BE20,Merrill Field (MRI / PAMR),Igiugig (IGG / PAIG),Wed 10:14AM AKDT,Wed 11:21AM AKDT,01:05
+ N313BM,BE20,New Castle (KILG),Tampa Intl (KTPA),Wed 02:14PM EDT,Wed 05:23PM EDT,02:52
+ N400SC,BE20,Iowa City Muni (KIOW),Teterboro (KTEB),Wed 12:58PM CDT,Wed 04:47PM EDT,02:49
+ C-GWRS,BE20,Fort McMurray (CYMM),Edmonton Int'l (CYEG),Wed 11:53AM MDT,Wed 12:49PM MDT,00:56
+ NCB911,BE20,Dawson Creek (CYDQ),Vancouver Int'l (CYVR),Wed 10:50AM MST,Wed 12:43PM PDT,01:56
+ N646DR,BE20,Flying Cloud (KFCM),Kenosha Rgnl (KENW),Wed 12:44PM CDT,Wed 01:54PM CDT,01:06
+ N24HD,BE20,Roberts Field (KRDM),Magic Valley Rgnl (KTWF),Wed 10:42AM PDT,Wed 12:58PM MDT,01:12
+ N126JH,BE20,John Wayne (KSNA),Scottsdale (KSDL),Wed 10:33AM PDT,Wed 11:51AM MST,01:10
+ LEAD49,BE20,Gowen Field (KBOI),N/A,Wed 11:23AM MDT,N/A,N/A
+ N322DH,BE20,Miami Executive (KTMB),James M Cox Dayton Intl (KDAY),Wed 01:20PM EDT,Wed 04:35PM EDT,03:16
+ N31CG,BE20,Salt Lake City Intl (KSLC),Hayward Executive (KHWD),Wed 11:19AM MDT,Wed 12:21PM PDT,02:01
+ N699BW,BE20,Salt Lake City Intl (KSLC),Camarillo (KCMA),Wed 11:06AM MDT,Wed 12:14PM PDT,02:08
+ LEAD63,BE20,Paso Robles Muni (KPRB),N/A,Wed 10:04AM PDT,N/A,N/A
+ N546LM,BE20,Unalaska (DUT / PADU),Anchorage Intl (PANC),Wed 09:02AM AKDT,Wed 11:23AM AKDT,02:19
+ N411KC,BE20,Durango-La Plata County (KDRO),Austin Executive (KEDC),Wed 11:01AM MDT,Wed 02:37PM CDT,02:32
+ NCB204T,BE20,Calgary Int'l (CYYC),Lethbridge County (Lethbridge) (CYQL),Wed 10:55AM MDT,Wed 12:43PM MDT,00:33
+ N825KA,BE20,Eagle County (KEGE),Addison (KADS),Wed 10:33AM MDT,Wed 02:12PM CDT,02:30
+ N150RL,BE20,Montgomery-Gibbs Executive (KMYF),N/A,Wed 09:28AM PDT,N/A,N/A
+ BRAVO19,BE20,San Bernardino Intl (KSBD),N/A,Wed 09:25AM PDT,N/A,N/A
+ N469SL,BE20,Hooks Mem (KDWH),Montrose Rgnl (KMTJ),Wed 10:58AM CDT,Wed 01:06PM MDT,03:01
+ N907G,BE20,Laurence G Hanscom Fld (KBED),Jefferson City Memorial (KJEF),Wed 11:54AM EDT,Wed 03:24PM CDT,03:54
+ N44MR,BE20,Livingston County (KOZW),Rapid City Rgnl (KRAP),Wed 11:52AM EDT,Wed 01:34PM MDT,03:42

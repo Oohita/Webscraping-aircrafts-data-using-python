@@ -1,0 +1,79 @@
+ident,type,origin,destination,departure,estd-arrival-time,estd-time-enroute
+ WIG7101,C208,Princess Juliana Int'l (SXM / TNCM),Luis Munoz Marin Intl (SJU / TJSJ),Wed 02:43PM AST,Wed 03:49PM AST,01:05
+ CFS8511,C208,Seattle-Tacoma Intl (KSEA),Skagit Rgnl (KBVS),Wed 11:43AM PDT,Wed 12:23PM PDT,00:24
+ FDY67,C208,Memphis Intl (KMEM),Boone County (KHRO),Wed 01:43PM CDT,Wed 03:40PM CDT,01:04
+ CPT7700,C208,Kapalua (JHM / PHJH),Daniel K Inouye Intl (PHNL),Wed 08:42AM HST,Wed 09:17AM HST,00:35
+ N1256P,C208,Charleston Intl/AFB (KCHS),N/A,Wed 02:41PM EDT,N/A,N/A
+ BRG422,C208,Unalakleet (UNK / PAUN), (SKK),Wed 10:41AM AKDT,Wed 06:54PM GMT,00:13
+ N855FE,C208,George F. L. Charles (SLU / TLPC),N/A,Wed 02:40PM AST,N/A,N/A
+ GUN8SM,C208,Scammon Bay (SCM / PACM),Bethel (BET / PABE),Wed 10:38AM AKDT,Wed 11:33AM AKDT,00:54
+ AZY2033,C208,Fort Lauderdale Executive (KFXE),N/A,Wed 02:37PM EDT,N/A,N/A
+ N208TS,C208,Michigan City Muni-Phillips Field (KMGC),N/A,Wed 01:37PM CDT,N/A,N/A
+ N543TC,C208,"Near Chandler, AZ",N/A,Wed 11:35AM MST,N/A,N/A
+ GUN4SF,C208,Mekoryuk (MYU / PAMY),Bethel (BET / PABE),Wed 10:35AM AKDT,Wed 11:28AM AKDT,00:53
+ ACO2626,C208,St Louis Lambert Intl (KSTL),Southeast Iowa Rgnl (KBRL),Wed 01:33PM CDT,Wed 02:44PM CDT,01:10
+ N929TG,C208,Lake Hood (LHD / PALH),N/A,Wed 10:33AM AKDT,N/A,N/A
+ GUN510,C208,Anchorage Intl (PANC),Kenai Muni (ENA / PAEN),Wed 10:33AM AKDT,Wed 10:55AM AKDT,00:23
+ N9680B,C208,Daugherty Field (KLGB),N/A,Wed 11:32AM PDT,N/A,N/A
+ N9187,C208,Daugherty Field (KLGB),N/A,Wed 11:31AM PDT,N/A,N/A
+ SDA294,C208,Woodbourne (BHE / NZWB),Wellington Int'l (WLG / NZWN),Thu 06:28AM NZST,Thu 06:58AM NZST,00:30
+ FDY4008,C208,T. F. Green International (KPVD),Nantucket Memorial (KACK),Wed 02:28PM EDT,Wed 02:52PM EDT,00:32
+ CFS8699,C208,Seattle-Tacoma Intl (KSEA),Bellingham Intl (KBLI),Wed 11:28AM PDT,Wed 12:12PM PDT,00:37
+ CFS8735,C208,Anchorage Intl (PANC),Kenai Muni (ENA / PAEN),Wed 10:27AM AKDT,Wed 10:50AM AKDT,00:21
+ N209JP,C208,Park Rapids Muni (KPKD),N/A,Wed 01:27PM CDT,N/A,N/A
+ CPT8822,C208,Yampa Valley (KHDN),Casper/Natrona County Intl (KCPR),Wed 12:26PM MDT,Wed 01:30PM MDT,01:00
+ N852MA,C208,Kahului (OGG / PHOG),N/A,Wed 08:26AM HST,N/A,N/A
+ N754KP,C208,Juneau Intl (JNU / PAJN),N/A,Wed 10:25AM AKDT,N/A,N/A
+ N7581F,C208,Fentress Airpark (XS90),N/A,Wed 01:24PM CDT,N/A,N/A
+ FDY280,C208,Altoona-Blair County (KAOO),Pittsburgh Intl (KPIT),Wed 02:24PM EDT,Wed 02:59PM EDT,00:43
+ FDY79,C208,Memphis Intl (KMEM),S Arkansas Regional (KELD),Wed 01:23PM CDT,Wed 02:22PM CDT,01:03
+ N905PJ,C208,"Near Little River, CA",N/A,Wed 11:22AM PDT,N/A,N/A
+ N247JP,C208,Gowen Field (KBOI),Lemhi County (KSMN),Wed 12:22PM MDT,Wed 01:14PM MDT,00:49
+ N162GA,C208,Bethel (BET / PABE),N/A,Wed 10:21AM AKDT,N/A,N/A
+ BRG812,C208,Elim (ELI / PFEL),Nome (OME / PAOM),Wed 10:18AM AKDT,Wed 11:12AM AKDT,00:33
+ N825MA,C208,"Near Lahaina, HI",N/A,Wed 08:18AM HST,N/A,N/A
+ GGT510,C208,Fort Lauderdale Executive (KFXE),Lynden Pindling Int'l (Nassau) (NAS / MYNN),Wed 02:16PM EDT,Wed 03:16PM EDT,00:57
+ BEZ401,C208,Luis Munoz Marin Intl (SJU / TJSJ),N/A,Wed 02:16PM AST,N/A,N/A
+ N1029Y,C208,"Near Eek, AK",N/A,Wed 10:12AM AKDT,N/A,N/A
+ N572TW,C208,Space Coast Rgnl (KTIX),N/A,Wed 02:11PM EDT,N/A,N/A
+ CSJ805,C208,Akron-Canton Rgnl (KCAK),Kenosha Rgnl (KENW),Wed 02:10PM EDT,Wed 03:21PM CDT,02:11
+ N1323R,C208,Fairbanks Intl (FAI / PAFA),N/A,Wed 10:09AM AKDT,N/A,N/A
+ N552HF,C208,Landry (TS01),N/A,Wed 01:09PM CDT,N/A,N/A
+ BEZ321,C208,Terrance B. Lettsome Int'l (EIS / TUPJ),N/A,Wed 02:08PM AST,N/A,N/A
+ N815KD,C208,Fort Lauderdale Executive (KFXE),N/A,Wed 02:08PM EDT,N/A,N/A
+ N429LH,C208,Spirit of St Louis (KSUS),Poplar Bluff Muni (KPOF),Wed 01:06PM CDT,Wed 01:46PM CDT,00:39
+ CSJ317,C208,Akron-Canton Rgnl (KCAK),Andrews University Airpark (C20),Wed 02:06PM EDT,Wed 03:43PM EDT,01:36
+ SDA391,C208,Wellington Int'l (WLG / NZWN),Nelson (NSN / NZNS),Thu 06:01AM NZST,Thu 06:46AM NZST,00:45
+ N208GE,C208,"Near Kodiak, AK",N/A,Wed 09:59AM AKDT,N/A,N/A
+ CFS8676,C208,Anchorage Intl (PANC),Homer (HOM / PAHO),Wed 09:59AM AKDT,Wed 10:47AM AKDT,00:43
+ N208EE,C208,Mason City Muni (KMCW),N/A,Wed 12:55PM CDT,N/A,N/A
+ N452T,C208,Fairbanks Intl (FAI / PAFA),N/A,Wed 09:53AM AKDT,N/A,N/A
+ BEZ414,C208,Near St. George's,N/A,Wed 01:52PM AST,N/A,N/A
+ BEZ416,C208,Martinique Aime Cesaire (FDF / TFFF),N/A,Wed 01:49PM AST,N/A,N/A
+ N399TT,C208,Bangor Intl (KBGR),N/A,Wed 01:49PM EDT,N/A,N/A
+ WMA2112,C208,Fort Lauderdale Executive (KFXE),San Andros (SAQ / MYAN),Wed 01:48PM EDT,Wed 02:49PM EDT,00:52
+ C-GSGV,C208,Iqaluit (CYFB),Kuujjuaq (CYVP),Wed 01:48PM EDT,Wed 04:12PM EDT,02:24
+ BXR700,C208,Redding Muni (KRDD),N/A,Wed 10:46AM PDT,N/A,N/A
+ N9602F,C208,"Near Nondalton, AK",N/A,Wed 09:45AM AKDT,N/A,N/A
+ N9479B,C208,"Near Mount Pocono, PA",N/A,Wed 01:38PM EDT,N/A,N/A
+ N215TA,C208,Cyril E King (STT / TIST),N/A,Wed 01:36PM AST,N/A,N/A
+ N575JD,C208,Fairbanks Intl (FAI / PAFA),Eagle (EAA / PAEG),Wed 09:34AM AKDT,Wed 10:42AM AKDT,01:08
+ CVU95,C208,Boulder City Muni (KBVU),N/A,Wed 10:29AM PDT,N/A,N/A
+ N104JF,C208,"Near Huntsville, TX",N/A,Wed 12:29PM CDT,N/A,N/A
+ N820FE,C208,Wichita Eisenhower (KICT),Abilene Rgnl (KABI),Wed 12:26PM CDT,Wed 02:31PM CDT,02:03
+ N682AC,C208,Bb Airpark (TE88),N/A,Wed 12:25PM CDT,N/A,N/A
+ N104JP,C208,Cross Keys (17N),N/A,Wed 01:23PM EDT,N/A,N/A
+ N716BT,C208,Donaldson Field (KGYH),N/A,Wed 01:21PM EDT,N/A,N/A
+ PRY5,C208,Donaldson Field (KGYH),St Marys Muni (KOYM),Wed 01:21PM EDT,Wed 03:57PM EDT,02:27
+ CVU80,C208,"Near Page, AZ",N/A,Wed 10:12AM MST,N/A,N/A
+ N265KP,C208,Juneau Intl (JNU / PAJN),N/A,Wed 09:11AM AKDT,N/A,N/A
+ CVU83,C208,"Near Page, AZ",N/A,Wed 10:10AM MST,N/A,N/A
+ N845,C208,Bozeman Yellowstone Intl (KBZN),N/A,Wed 11:04AM MDT,N/A,N/A
+ RYA709,C208,Bethel (BET / PABE),N/A,Wed 09:01AM AKDT,N/A,N/A
+ N750KP,C208,Juneau Intl (JNU / PAJN),N/A,Wed 08:50AM AKDT,N/A,N/A
+ N879UT,C208,Daniel K Inouye Intl (PHNL),Pago Pago Intl (PPG / NSTU),Wed 06:42AM HST,Wed 06:37PM SST,12:50
+ N9304F,C208,Harford County (0W3),N/A,Wed 12:39PM EDT,N/A,N/A
+ N755KP,C208,Juneau Intl (JNU / PAJN),N/A,Wed 08:36AM AKDT,N/A,N/A
+ MTN8862,C208,Rafael Hernandez (BQN / TJBQ),George F. L. Charles (SLU / TLPC),Wed 12:24PM AST,Wed 03:55PM AST,03:30
+ N208PC,C208,Near ,N/A,Wed 05:25PM CEST,N/A,N/A
+ BEZ1403,C208,Luis Munoz Marin Intl (SJU / TJSJ),N/A,Wed 11:03AM AST,N/A,N/A

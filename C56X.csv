@@ -1,0 +1,47 @@
+ident,type,origin,destination,departure,estd-arrival-time,estd-time-enroute
+ N559HF,C56X,Fresno Yosemite Intl (KFAT),N/A,Wed 11:45AM PDT,N/A,N/A
+ EJA634,C56X,Tampa Intl (KTPA),Palm Beach Intl (KPBI),Wed 02:43PM EDT,Wed 03:18PM EDT,00:35
+ LJY1909,C56X,Moore-Murrell (KMOR),Rock Hill (KUZA),Wed 02:42PM EDT,Wed 03:14PM EDT,00:32
+ EJA656,C56X,McGhee Tyson (KTYS),Owensboro-Daviess County Rgnl (KOWB),Wed 02:41PM EDT,Wed 02:15PM CDT,00:34
+ N673W,C56X,El Dorado Int'l (BOG / SKBO),N/A,Wed 01:41PM -05,N/A,N/A
+ N1MM,C56X,Will Rogers World (KOKC),Spokane Intl (KGEG),Wed 01:40PM CDT,Wed 02:28PM PDT,02:48
+ N838C,C56X,Easton/Newnam Field (KESN),Mid-Carolina Rgnl (KRUQ),Wed 02:40PM EDT,Wed 03:34PM EDT,00:55
+ N865JS,C56X,Dekalb-Peachtree (KPDK),Palm Beach Intl (KPBI),Wed 02:38PM EDT,Wed 04:05PM EDT,01:27
+ EJA683,C56X,Genesee County (KGVQ),Albany Intl (KALB),Wed 02:38PM EDT,Wed 03:09PM EDT,00:31
+ N560DA,C56X,Greenville/Spartanburg Intl (KGSP),Sumter (KSMS),Wed 02:28PM EDT,Wed 02:53PM EDT,00:27
+ DPJ233,C56X,William P Hobby (KHOU),Fulton County  (KFTY),Wed 01:25PM CDT,Wed 04:03PM EDT,01:36
+ DPJ325,C56X,Wheeler Downtown (KMKC),Shenandoah Valley Rgnl (KSHD),Wed 01:24PM CDT,Wed 04:13PM EDT,01:49
+ DPJ900,C56X,Eagle River Union (KEGV),Cincinnati Muni (KLUK),Wed 01:24PM CDT,Wed 03:36PM EDT,01:19
+ EJA644,C56X,Blue Grass (KLEX),Palm Beach Intl (KPBI),Wed 02:18PM EDT,Wed 04:16PM EDT,02:00
+ PJC32,C56X,Martin State (KMTN),Republic (KFRG),Wed 02:13PM EDT,Wed 02:54PM EDT,00:49
+ MLN562,C56X,Allegheny County (KAGC),Orlando Intl (KMCO),Wed 02:13PM EDT,Wed 04:18PM EDT,02:01
+ EJA573,C56X,Nashville Intl (KBNA),Indianapolis Intl (KIND),Wed 01:13PM CDT,Wed 02:54PM EDT,00:54
+ N76SN,C56X,Gerald R Ford Intl (KGRR),Dallas Love Field (KDAL),Wed 02:09PM EDT,Wed 03:23PM CDT,02:11
+ N712GK,C56X,Dekalb-Peachtree (KPDK),Charlotte/Douglas Intl (KCLT),Wed 02:08PM EDT,Wed 02:50PM EDT,00:40
+ AHO474W,C56X,Antwerp Int'l (ANR / EBAW),N/A,Wed 08:06PM CEST,N/A,N/A
+ N823DT,C56X,Frederick Muni (KFDK),N/A,Wed 01:59PM EDT,N/A,N/A
+ SBE823,C56X,Frederick Muni (KFDK),Addison (KADS),Wed 01:59PM EDT,Wed 03:59PM CDT,02:55
+ EJA618,C56X,Chester County G O Carlson (KMQS),Westchester County (KHPN),Wed 01:56PM EDT,Wed 02:47PM EDT,00:24
+ N562DD,C56X,McClellan-Palomar (KCRQ),Austin-Bergstrom Intl (KAUS),Wed 10:54AM PDT,Wed 03:22PM CDT,02:04
+ EJA673,C56X,Idaho Falls Rgnl (KIDA),Scottsdale (KSDL),Wed 11:43AM MDT,Wed 12:15PM MST,01:37
+ EJA594,C56X,Dallas Love Field (KDAL),Tupelo Rgnl (KTUP),Wed 12:33PM CDT,Wed 01:45PM CDT,01:24
+ N952RB,C56X,San Diego Intl (KSAN),Colorado Sprgs Muni (KCOS),Wed 10:32AM PDT,Wed 01:27PM MDT,01:57
+ PXT12,C56X,Weed (O46),Los Cabos Int'l (SJD / MMSD),Wed 10:21AM PDT,Wed 02:42PM MDT,03:14
+ FWK285,C56X,Philadelphia Intl (KPHL),Dekalb-Peachtree (KPDK),Wed 01:21PM EDT,Wed 03:04PM EDT,01:38
+ GAJ504,C56X,Muhammad Ali Intl (KSDF),McKinney National (KTKI),Wed 01:16PM EDT,Wed 02:05PM CDT,01:49
+ EJA658,C56X,Newnan Coweta County (KCCO),Sugar Land Rgnl (KSGR),Wed 01:12PM EDT,Wed 01:58PM CDT,02:00
+ N839JS,C56X,Baltimore/Washington Intl (KBWI),Page Field (KFMY),Wed 01:11PM EDT,Wed 03:39PM EDT,02:17
+ EJM697,C56X,Teterboro (KTEB),Palm Beach Intl (KPBI),Wed 01:09PM EDT,Wed 03:41PM EDT,02:32
+ DPJ413,C56X,LaGuardia (KLGA),Sarasota/Bradenton Intl (KSRQ),Wed 01:06PM EDT,Wed 03:51PM EDT,02:41
+ N560TE,C56X,Midland Airpark (KMDD),Yellowstone Rgnl (KCOD),Wed 12:00PM CDT,Wed 01:14PM MDT,02:08
+ GAJ506,C56X,Jackson Hole (KJAC),Dane Co Rgnl (KMSN),Wed 10:52AM MDT,Wed 02:07PM CDT,02:21
+ DPJ70,C56X,Dane Co Rgnl (KMSN),Miami Executive (KTMB),Wed 11:48AM CDT,Wed 04:03PM EDT,03:12
+ N869JS,C56X,Eagle County (KEGE),Dekalb-Peachtree (KPDK),Wed 10:39AM MDT,Wed 03:39PM EDT,02:55
+ N718QQ,C56X,Witham Field (KSUA),Cape May County (KWWD),Wed 12:38PM EDT,Wed 02:53PM EDT,01:46
+ N29QA,C56X,Palm Springs Intl (KPSP),Dallas Love Field (KDAL),Wed 09:36AM PDT,Wed 02:05PM CDT,02:31
+ EJA672,C56X,Lewistown Muni (KLWT),San Jose Int'l (KSJC),Wed 10:30AM MDT,Wed 11:53AM PDT,02:22
+ XA-AEA,C56X,Loreto Int'l (LTO / MMLT),Eagle County (KEGE),Wed 09:26AM MST,Wed 12:53PM MDT,02:17
+ N843JS,C56X,Telluride Rgnl (KTEX),Indianapolis Intl (KIND),Wed 10:23AM MDT,Wed 03:01PM EDT,02:42
+ EJA565,C56X,Muskegon County (KMKG),Phoenix-Mesa Gateway (KIWA),Wed 12:18PM EDT,Wed 01:33PM MST,04:12
+ N990MF,C56X,Friedman Memorial (KSUN),Teterboro (KTEB),Wed 09:58AM MDT,Wed 04:03PM EDT,04:06
+ N1088R,C56X,Mahlon Sweet Field (KEUG),S Arkansas Regional (KELD),Wed 08:07AM PDT,Wed 01:50PM CDT,03:47
